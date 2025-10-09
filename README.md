@@ -33,6 +33,7 @@ A credit risk modeling application built in Python, designed to help financial i
    ```bash
    streamlit run main.py
    ```
+  Visit (https://credmod.streamlit.app/)
 
 4. Open the local web app in your browser to input borrower details and get risk predictions.
 
